@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkobandyopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="arkobandyopadhyay" /> </p>
 
-- 🔭 I’m currently working on **AI-chatbot**
+- 🔭 I’m currently working on **Eclectika-App**
 
 - 🌱 I’m currently learning **backend**
 
